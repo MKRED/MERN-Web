@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "secret jwt key",
+    "mongoUrl": "mongodb+srv://kvach:vbifrdfx@clustermern.hohng.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http:localhost:5000"
+}
